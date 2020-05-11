@@ -5,7 +5,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <nav 
-        style={{  height:"10vh" }}
+        style={{  height:"12vh" }}
         className=" tc bg-yellow pa0 ma0 w-100 shadow-5">
         </nav>
     )

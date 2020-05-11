@@ -16,6 +16,7 @@ function App() {
           <Link to="/shows">
             <h1>Shows</h1>
           </Link>
+          
       </nav>
       <main>
 
